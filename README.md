@@ -1,7 +1,7 @@
 Creating and Inserting DOM Nodes
 ---
 
-## Objectives
+<!-- ## Objectives -->
 
 By the end of this lesson, you'll be able to
 
